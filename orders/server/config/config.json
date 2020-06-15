@@ -1,0 +1,29 @@
+{
+  "development": {
+    "username": "syamsulmj",
+    "password": null,
+    "database": "setel",
+    "host": "localhost",
+    "dialect": "postgres",
+    "port": 5432,
+    "operatorsAliases": 0
+  },
+  "test": {
+    "username": "syamsulmj",
+    "password": null,
+    "database": "setel",
+    "host": "localhost",
+    "dialect": "postgres",
+    "port": 5432,
+    "operatorsAliases": 0
+  },
+  "production": {
+    "username": "syamsulmj",
+    "password": null,
+    "database": "setel",
+    "host": "localhost",
+    "dialect": "postgres",
+    "port": 5432,
+    "operatorsAliases": 0
+  }
+}
