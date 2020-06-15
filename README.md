@@ -17,6 +17,7 @@ How to setup everything
 ```
 cd orders
 yarn install
+sequelize db:migrate # create new table on postgres
 yarn start # localhost:3030 endpoint
 ```
 
