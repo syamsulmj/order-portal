@@ -1,0 +1,6 @@
+./orders/node_modules
+./orders/yarn.lock
+./payment/node_modules
+./payment/yarn.lock
+./order-operations-portal/node_modules
+./order-operations-portal/yarn.lock
